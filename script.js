@@ -1,13 +1,13 @@
 let phrases = [
-    { text: 'Реализация DIY(Do it yourself)-проектов.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/6ozq/R9FEQE3yt' },
-    { text: 'Высокооплачиваемая работа.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/daP9/syb9xuuia' },
-    { text: 'Территориальная свобода: работаешь, где хочешь.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/HyHJ/VHkPyz3cD' },
-    { text: 'Гибкий рабочий график.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/yupJ/5mZwm6phm' },
-    { text: 'Финансовая возможность помочь родителям.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/R72M/p12UMByR5' },
-    { text: 'Возможность откладывать деньги на безбедную старость.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/4BgV/ZfwJpGijZ' },
-    { text: 'Поехать в отпуск на море.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/6wby/1rgJjvNU9' },
-    { text: 'Собрать мощный компьютер.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/yBag/3TUMB3tCr' },
-    { text: 'Обустроить свое рабочее место профессиональным креслом, столом, светом, монитором.', image: 'https://thumb.cloud.mail.ru/weblink/thumb/xw1/QqjC/78SvaSZum' }
+    { text: 'Реализация DIY(Do it yourself)-проектов.', image: 'https://archonkod.github.io/public/img/1_DIY.jpg' },
+    { text: 'Высокооплачиваемая работа.', image: 'https://archonkod.github.io/public/img/2_JobMoney.jpg' },
+    { text: 'Территориальная свобода: работаешь, где хочешь.', image: 'https://archonkod.github.io/public/img/3_WorkOnline.jpg' },
+    { text: 'Гибкий рабочий график.', image: 'https://archonkod.github.io/public/img/4_gibkiy_grafik.jpg' },
+    { text: 'Финансовая возможность помочь родителям.', image: 'https://archonkod.github.io/public/img/5_FinHelp.jpg' },
+    { text: 'Возможность откладывать деньги на безбедную старость.', image: 'https://archonkod.github.io/public/img/6_FinCheck.jpg' },
+    { text: 'Поехать в отпуск на море.', image: 'https://archonkod.github.io/public/img/7_weekend.jpg' },
+    { text: 'Собрать мощный компьютер.', image: 'https://archonkod.github.io/public/img/8_pc.jpg' },
+    { text: 'Обустроить свое рабочее место профессиональным креслом, столом, светом, монитором.', image: 'https://archonkod.github.io/public/img/9_workPlace.jpg' }
   
   ];
   
